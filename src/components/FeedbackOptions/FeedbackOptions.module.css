@@ -1,0 +1,7 @@
+.BtnList {
+    display: flex;
+  }
+  
+  .BtnListItem:not(:last-child) {
+    margin-right: 15px;
+  }
